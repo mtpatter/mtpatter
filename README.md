@@ -23,5 +23,5 @@
 <p align="center">
 <a href="https://twitter.com/openscipinay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="openscipinay" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/mariatpatterson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mariatpatterson" height="30" width="30" /></a>
-<a href="https://medium.com/@maria.t.patterson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@maria.t.patterson" height="30" width="30" /></a>
+<a href="https://maria-patterson.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@maria-patterson" height="30" width="30" /></a>
 </p>
